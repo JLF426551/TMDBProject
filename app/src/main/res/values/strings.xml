@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TMDBProject</string>
+    <string name="short_app">Movie Project</string>
+
+    <string name="movie_poster">movie_poster</string>
+
+    <string name="show_highest_rated">Show Highest Rated</string>
+    <string name="show_popular_movies">Show Popular Movies</string>
+    <string name="show_upcoming_films">Show Upcoming Films</string>
+    <string name="show_now_playing">Show Now Playing</string>
+    <string name="show_favorites">Show Favorite Movies</string>
+    <string name="show_reviews">Show Reviews</string>
+    <string name="show_trailers">Show Trailers</string>
+
+    <string name="title_highest">Highest Rated</string>
+    <string name="title_popular">Popular Movies</string>
+    <string name="title_upcoming">Upcoming Films</string>
+    <string name="title_now">Now Playing</string>
+    <string name="title_movie_details">Movie Details</string>
+    <string name="title_favorites">Favorites</string>
+
+    <string name="movies">Movies</string>
+    <string name="title">Title</string>
+    <string name="release">Release Date</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="average"> Average</string>
+
+    <string name="extra_movie">MOVIE</string>
+    <string name="extra_query">QUERY</string>
+    <string name="extra_favorite">FAVORITE</string>
+
+    <string name="create_created">Saved Movie As Favorite</string>
+    <string name="create_failed">Unable To Save Movie As Favorite</string>
+    <string name="favorite_exists">Movie Is Already A Favorite</string>
+
+    <string name="delete_entry_failed">Unable to delete</string>
+    <string name="delete_entry_succesful">Deleted confirmed</string>
+    <string name="mark_as_favorite">Mark as Favorite</string>
+
+    <string name="minutes">Minutes</string>
+</resources>
